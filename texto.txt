@@ -1,1 +1,4 @@
 print("Hola mundo")
+
+print("Sonic the hedgehog")
+print("The last of us")
